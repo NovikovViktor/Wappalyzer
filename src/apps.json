@@ -5465,6 +5465,7 @@
 			"cats": [
 				18
 			],
+            "html": "^.*?\/web\/bundles\/.*$",
 			"implies": "PHP",
 			"website": "symfony.com"
 		},
